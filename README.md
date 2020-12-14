@@ -14,7 +14,7 @@ Example: restore symbol for Alipay
 
 ```
 
-git clone --recursive https://github.com/tobefuturer/restore-symbol.git
+git clone --recursive https://github.com/j0hmy/restore-symbol.git
 cd restore-symbol && make
 ./restore-symbol
 
